@@ -1,0 +1,5 @@
+Bundle-Name: npm-angular6-portlet-say-hello
+Bundle-SymbolicName: npm.angular6.portlet.say.hello
+Bundle-Version: 1.0.0
+Export-Package: npm.angular6.portlet.say.hello.constants
+Web-ContextPath: /npm-angular6-portlet-say-hello
