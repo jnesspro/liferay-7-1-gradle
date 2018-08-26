@@ -39,7 +39,7 @@
 		"typescript": "~2.5.3"
 	},
 	"main": "js/angular.pre.loader.js",
-	"name": "npm-angular5-portlet-say-hello",
+	"name": "npm-angular5-portlet-sample",
 	"scripts": {
 		"build": "tsc && liferay-npm-bundler"
 	},
