@@ -1,0 +1,5 @@
+Bundle-Name: npm-angular5-portlet-sample
+Bundle-SymbolicName: npm.angular5.portlet.sample
+Bundle-Version: 1.0.0
+Export-Package: npm.angular5.portlet.sample.constants
+Web-ContextPath: /npm-angular5-portlet-sample
